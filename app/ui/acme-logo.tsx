@@ -8,6 +8,10 @@ export default function AcmeLogo() {
     >
       <GlobeAltIcon className="h-12 w-12 rotate-[15deg]" />
       <p className="text-[44px]">Acme</p>
+      <img
+        src="/hero.png"
+        alt="Screenshots of the dashboard project showing desktop version"
+      />
     </div>
   );
 }
